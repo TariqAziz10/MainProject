@@ -69,26 +69,42 @@ Copy code
 property-listings-booking-platform
 
 ├── models               # Contains database models (User, Listing, Review)
+
 ├── routes               # Defines API routes (listings, reviews, users)
+
 ├── views                # Contains EJS templates for front-end rendering
+
 ├── public               # CSS, images, and other public assets
+
 ├── controllers          # Business logic for handling requests
+
 ├── config               # Configuration files for database and environment
+
 └── server.js            # Entry point for the server
+
 Deployment
 
 The application is deployed on Render.com. To deploy:
 
 Link your GitHub repository with Render.com.
+
 Configure environment variables as set in your .env file.
+
 Deploy, and Render.com will handle the build and deployment process.
 Future Enhancements
+
 Advanced Filters: Adding more detailed filters for enhanced search functionality.
+
 Payment Integration: Integrate with payment providers for direct payments within the booking process.
+
 Notifications: Implement email or SMS notifications for booking confirmations and reminders.
+
 Admin Panel: Develop an admin panel for better control over listings and reviews.
+
 Contributing
+
 Contributions are welcome! Please fork this repository, create a feature branch, and submit a pull request with a detailed description of your changes.
 
 License
+
 This project is licensed under the MIT License.
