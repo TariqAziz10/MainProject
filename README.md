@@ -1,6 +1,9 @@
-Property Listings and Booking Platform						  July 24- August 2024
-          URL: mainproject-8aom.onrender.com/listings
-          Technologies Used:
+**Property Listings and Booking Platform**
+
+          *URL*: mainproject-8aom.onrender.com/listings
+	  
+          *Technologies Used:*
+	  
 •	Backend: Express.js, Node.js
 •	Frontend: EJS (Embedded JavaScript Templates), CSS, Bootstrap
 •	Database: MongoDB (using MongoDB Atlas for cloud database deployment)
