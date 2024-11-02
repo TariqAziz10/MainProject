@@ -1,4 +1,4 @@
-**Property Listings and Booking Platform**
+***Property Listings and Booking Platform***
 
 Welcome to the Property Listings and Booking Platform! This is a full-stack web application that allows users to search, post, and reserve properties with user-specific management features. Users can create, edit, update, and delete property listings and reviews, with a secure, role-based access control.
 
